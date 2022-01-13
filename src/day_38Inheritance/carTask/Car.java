@@ -1,4 +1,4 @@
-package day_38Inheritance;
+package day_38Inheritance.carTask;
 
 public class Car {
 
