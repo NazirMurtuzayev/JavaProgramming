@@ -20,7 +20,7 @@ public class ArraysListMethods2 {
         //list.remove(num);
 
 
-         Integer num=200;
+        Integer num=200;
        boolean r= list.remove(num); // removes the object
         System.out.println(list);
         System.out.println(r);
