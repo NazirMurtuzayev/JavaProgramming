@@ -6,8 +6,13 @@ public class Tester extends Employee {
         super("Tester", jobTitle, companyName, age, id, gender, salary);
     }
 
+
     public void work(){
-        System.out.println(name+"is working at"+companyName+"as a"+jobTitle);
+        System.out.println(name+" is working at "+companyName+" as a "+jobTitle);
+    }
+
+    public  void create(){
+        System.out.println(name+" creating a ticket at a "+companyName);
     }
 
 
