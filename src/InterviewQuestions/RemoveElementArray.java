@@ -14,7 +14,7 @@ public class RemoveElementArray {
         int[] newArr=new int[ar.length-1];
         int j=0;
         for (int i = 0; i < ar.length; i++) {
-            if(i!=n){
+            if(i!=n){// 10 20 40
                 newArr[j++]=ar[i];
             }
         }

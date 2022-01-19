@@ -9,7 +9,7 @@ public class Teacher extends Employee {
 
     @Override
     public void work() {
-        System.out.println(getName()+" "+getName()+" is teaching ");
+        System.out.println(getName()+" "+getJobTitle()+" is teaching ");
     }
 
 
