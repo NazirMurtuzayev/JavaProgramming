@@ -3,7 +3,7 @@ package InterviewQuestions;
 public class CountLetters {
 
     public static void main(String[] args) {
-        String str = "aaabbbccc";
+        String str = "aaabbbcc";
         String result = "";
 
         for (int i = 0; i < str.length(); i++) {
